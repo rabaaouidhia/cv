@@ -1,0 +1,24 @@
+.titre {
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Cairo', sans-serif;
+
+}
+.tas{
+        width: 200px;
+        height: 200px;
+    }
+body{
+    background-image: url(https://previews.123rf.com/images/icedesign/icedesign1802/icedesign180200007/96401675-mod%C3%A8les-et-cv-pour-votre-entreprise-de-conception-vecteur-de-fond.jpg);
+background-attachment: fixed;
+background-position:center ;
+background-size: cover;
+}
+
+.titre:hover{
+    color:red;
+  
+}
+ p{
+    font-size: 5rem;
+ }
